@@ -13041,12 +13041,13 @@ h1 {
   }
 }
 
-.about-image {
+.head-image {
   height: 80vh;
   margin: 30vh 0;
 }
 
-.about-image img {
+.head-image img {
+  z-index: 0;
   position: absolute;
   left: -30%;
   width: 100%;
@@ -13063,7 +13064,7 @@ h1 {
 }
 
 @media screen and (max-width: 767px) {
-  .about-image img {
+  .head-image img {
     left: -10%;
   }
 
