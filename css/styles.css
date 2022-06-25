@@ -12828,7 +12828,7 @@ body {
 
 @media screen and (max-width: 576px) {
   .head-photo {
-    left: 0%;
+    left: 5%;
   }
 }
 
@@ -13068,6 +13068,6 @@ h1 {
   }
 
   .project-head {
-    font-size: 3.5rem;
+    font-size: 3rem;
   }
 }
