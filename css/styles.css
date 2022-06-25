@@ -11756,7 +11756,7 @@ body {
 
 @media screen and (max-width:480px) {
   .head-photo {
-      left: -10%;
+      left: -8%;
   }
 }
 
@@ -11927,4 +11927,10 @@ h1 {
 
 .text-danger-50 {
   color: rgba(161, 100, 104, .5);
+}
+
+.credit {
+  position: fixed;
+  bottom: 0;
+  right: 0;
 }
