@@ -12997,6 +12997,10 @@ h1 {
   color: rgba(28, 171, 196, .5);
 }
 
+.text-info-80 {
+  color: rgba(28, 171, 196, .8);
+}
+
 .text-danger-50 {
   color: rgba(161, 100, 104, .5);
 }
@@ -13007,7 +13011,7 @@ h1 {
   right: 0;
 }
 
-.about-container {
+.cus-container {
   max-width: 60%;
   margin: 0 auto;
   padding: 10rem 0 0 0;
@@ -13015,24 +13019,24 @@ h1 {
   color: rgba(255, 255, 255, 0.8) !important;
 }
 
-.about-container p {
+.cus-container p {
   font-size: 1.3rem;
 }
 
 @media screen and (max-width: 767px) {
-  .about-container {
+  .cus-container {
     max-width: 80%;
   }
 }
 
-.about-head {
+.cus-head {
   font-size: 5rem;
   font-weight: bold;
   margin: 5rem 0 5rem 0;
 }
 
 @media screen and (max-width: 767px) {
-  .about-head {
+  .cus-head {
     font-size: 3.5rem;
   }
 }
