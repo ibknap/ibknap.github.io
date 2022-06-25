@@ -11756,7 +11756,7 @@ body {
 
 @media screen and (max-width:480px) {
   .head-photo {
-      left: 0%;
+      left: -8%;
   }
 }
 
