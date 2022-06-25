@@ -13057,8 +13057,17 @@ h1 {
   pointer-events: none !important;
 }
 
+.project-head {
+  font-size: 5rem;
+  color: rgba(255, 255, 255, .5);
+}
+
 @media screen and (max-width: 767px) {
   .about-image img {
     left: -10%;
+  }
+
+  .project-head {
+    font-size: 3rem;
   }
 }
