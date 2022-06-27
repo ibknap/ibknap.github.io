@@ -13073,3 +13073,24 @@ h1 {
     font-size: 3rem;
   }
 }
+
+.reviews {
+  font-weight: lighter;
+  font-style: italic;
+  font-size: 1.2rem !important;
+  text-align: end;
+}
+
+.reviews span {
+  font-size: .5rem;
+  font-weight: bold;
+}
+
+img, p, h2, h3, h4, h5, h6, span, i {
+  user-select:none;
+  -moz-user-select:none;
+  -webkit-user-select:none;
+  -webkit-touch-callout:none;
+  -ms-user-select:none;
+  pointer-events: none !important;
+}
