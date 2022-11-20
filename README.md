@@ -17,13 +17,13 @@
 <p align="left">
   👉 Wanna follow the interesting wonders of ibukunoluwa 😊?
   <br><br>
-  • [Twitter](https://twitter.com/ibukunoluwanap/ "My Twitter Handle") <img src="https://img.icons8.com/color/24/null/twitter--v1.png" />
+  • <a href="https://twitter.com/ibukunoluwanap/" title="My Twitter Handle">Twitter</a> <img src="https://img.icons8.com/color/24/null/twitter--v1.png" />
   <br>
-  • [Instagram](https://www.instagram.com/ibukunoluwanap/ "My Instagram Handle") <img src="https://img.icons8.com/fluency/24/null/instagram-new.png" />
+  • <a href="https://instagram.com/ibukunoluwanap/" title="My Instagram Handle">Instagram</a> <img src="https://img.icons8.com/fluency/24/null/instagram-new.png" />
   <br>
-  • [LinkedIn](https://www.linkedin.com/in/ibukunoluwanap/ "My LinkedIn Handle") <img src="https://img.icons8.com/color/24/null/linkedin-2--v1.png" />
+  • <a href="https://www.linkedin.com/in/ibukunoluwanap/" title="My LinkedIn Handle">LinkedIn</a> <img src="https://img.icons8.com/color/24/null/linkedin-2--v1.png" />
   <br>
-  • [Facebook](https://www.facebook.com/ibukunoluwanaphtali "My Facebook Handle") <img src="https://img.icons8.com/color/24/null/facebook-new.png" />
+  • <a href="https://www.facebook.com/ibukunoluwanaphtali" title="My Facebook Handle">Facebook</a> <img src="https://img.icons8.com/color/24/null/facebook-new.png" />
 </p>
 
 ###
